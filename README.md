@@ -6,4 +6,4 @@ A simple Admin Panel
 
 Once your username and password is correct in able to access the Admin area
 
-![]()
+![](adminarea.jpg)
